@@ -1,6 +1,6 @@
 # Rental-agency-database-system
 
-# Premium Rentals - Car Rental System (SQL Database Project)
+Premium Rentals - Car Rental System (SQL Database Project)
 
 This project demonstrates a professional relational database system built using MySQL for a **car rental business**. It includes real-world features like customer records, vehicle management, bookings, payments, and multi-branch location support.
 
@@ -59,7 +59,7 @@ JOIN customers c ON r.customer_id = c.customer_id;
 -- View all payments made using UPI
 SELECT * FROM payments WHERE method = 'UPI';
 
-🔗 Author
+## 🔗 Author
 
 Developed by [Syeda Alia Samia](https://github.com/aliasyeda)
 
