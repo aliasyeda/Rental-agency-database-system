@@ -59,6 +59,8 @@ JOIN customers c ON r.customer_id = c.customer_id;
 -- View all payments made using UPI
 SELECT * FROM payments WHERE method = 'UPI';
 
+
+
 ## 🔗 Author
 
 Developed by [Syeda Alia Samia](https://github.com/aliasyeda)
