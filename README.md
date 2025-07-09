@@ -61,8 +61,13 @@ SELECT * FROM payments WHERE method = 'UPI';
 
 
 
-## 🔗 Author
 
-Developed by [Syeda Alia Samia](https://github.com/aliasyeda)
+
+## 👨‍💻 Author
+
+**Syeda Alia Samia**  
+GitHub: [Syeda Alia Samia](https://github.com/aliasyeda) 
+Project: `Rental-agency-database-system-sql`
+
 
 
