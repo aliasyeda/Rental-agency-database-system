@@ -47,7 +47,6 @@ This project demonstrates a professional relational database system built using 
 
 ## 🔍 Sample Queries
 
-```sql
 -- View all cars in a specific location
 SELECT * FROM cars WHERE location_id = 1;
 
@@ -65,8 +64,9 @@ SELECT * FROM payments WHERE method = 'UPI';
 
 ## 👨‍💻 Author
 
+Developed by
 **Syeda Alia Samia**  
-GitHub: [Syeda Alia Samia](https://github.com/aliasyeda) 
+GitHub:[Syeda Alia Samia](https://github.com/your-github-username)
 Project: `Rental-agency-database-system-sql`
 
 
